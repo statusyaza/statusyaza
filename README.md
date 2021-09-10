@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @statusyaza
+- 👋 Hi, I’m @YAZA
 - 👀 I’m interested in designing
 - 🌱 I’m currently learning android studio
 - 💞️ I’m looking to collaborate on ...
