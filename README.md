@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YAZA
+- 👋 Hi, I’m @Aly Yaza
 - 👀 I’m interested in designing
 - 🌱 I’m currently learning android studio
 - 💞️ I’m looking to collaborate on ...
